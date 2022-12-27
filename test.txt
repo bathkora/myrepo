@@ -2,4 +2,8 @@ enjoying.
 
 how about you.?
 
+<<<<<<< HEAD
 bubble sort
+=======
+thanks.
+>>>>>>> quicksort
