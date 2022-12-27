@@ -7,3 +7,5 @@ bubble sort
 =======
 thanks.
 >>>>>>> quicksort
+
+yes do it.
